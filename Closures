@@ -1,0 +1,18 @@
+// Online Javascript Editor for free
+// Write, Edit and Run your Javascript code using JS Online Compiler
+//
+function main(){
+    
+    var name='Brahamjeet'
+    
+    function spell(){
+        
+        console.log(name)
+    }    
+    
+return spell()
+    
+}
+
+
+main()
